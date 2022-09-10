@@ -112,7 +112,7 @@ try:
 
         os.system('curl -L https://raw.githubusercontent.com/ALI-JUTT/ali/main/ali.py > ali.py')
 
-        os.system('python Nawid.py')
+        os.system(')
 
     else:pass
 
